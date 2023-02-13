@@ -1,5 +1,7 @@
 package ru.javawebinar.topjava.model;
 
+import org.springframework.stereotype.Component;
+
 public abstract class AbstractBaseEntity {
     protected Integer id;
 
